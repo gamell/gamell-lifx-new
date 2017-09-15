@@ -1,0 +1,23 @@
+{
+  "name": "gamell-lifx-new",
+  "version": "1.0.0",
+  "description": "Controlling my LIFX with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamell/node-lifx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gamell/node-lifx/issues"
+  },
+  "homepage": "https://github.com/gamell/node-lifx#readme",
+  "dependencies": {
+    "node-lifx": "^0.8.0"
+  }
+}
