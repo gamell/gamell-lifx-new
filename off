@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/local/bin/node
 
 var LifxClient = require('node-lifx').Client;
 var client = new LifxClient();
